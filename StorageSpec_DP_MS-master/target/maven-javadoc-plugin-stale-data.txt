@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-private
+-source
+'1.8'
+-sourcepath
+'C:/Users/marko/Desktop/sk_specifikacija/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marko/Desktop/sk_specifikacija/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-storage-spec 2.1.5-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/marko/Desktop/sk_specifikacija/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'maven-storage-spec 2.1.5-SNAPSHOT API'
+com.komponente.skladista
+'C:/Users/marko/Desktop/sk_specifikacija/src/main/java/com/komponente/skladista/Korisnici.java'
+'C:/Users/marko/Desktop/sk_specifikacija/src/main/java/com/komponente/skladista/Korisnik.java'
+'C:/Users/marko/Desktop/sk_specifikacija/src/main/java/com/komponente/skladista/Skladiste.java'
+C:\Users\marko\Desktop\sk_specifikacija\src\main\java = 1637144645125
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\allclasses-frame.html = 1637403746506
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\allclasses-noframe.html = 1637403746508
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\constant-values.html = 1637403746303
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\deprecated-list.html = 1637403746502
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\element-list = 1637403746245
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\index-all.html = 1637403746494
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\index.html = 1637403746511
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\member-search-index.js = 1637403746486
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\member-search-index.zip = 1637403746489
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\overview-tree.html = 1637403746404
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\package-search-index.js = 1637403746440
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\package-search-index.zip = 1637403746476
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\script.js = 1637403746513
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\search.js = 1637403746528
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\stylesheet.css = 1637144645177
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\type-search-index.js = 1637403746478
+C:\Users\marko\Desktop\sk_specifikacija\target\site\apidocs\type-search-index.zip = 1637403746484

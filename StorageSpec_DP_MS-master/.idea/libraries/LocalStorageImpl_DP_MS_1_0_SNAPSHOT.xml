@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LocalStorageImpl_DP_MS-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sk_lokal/target/LocalStorageImpl_DP_MS-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

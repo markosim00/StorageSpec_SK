@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.komponente.skladista","l":"Korisnici"},{"p":"com.komponente.skladista","l":"Korisnik"},{"p":"com.komponente.skladista","l":"Skladiste"}]
